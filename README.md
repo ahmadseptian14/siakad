@@ -1,20 +1,8 @@
-# SIAKAD APPLICATION - LARAVEL 10
-
-## Screenshots
-
-![preview img](/preview.png)
+# Sistem Informasi Akademik
 
 ## Run Locally
 
 Clone the project
-
-```bash
-  git clone https://github.com/abdulaziz-m5u/siakad-laravel.git nama_project
-```
-
-```bash
-  cd nama_project
-```
 
 -   Copy .env.example file to .env and edit database credentials there
 
